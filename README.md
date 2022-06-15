@@ -1,0 +1,1 @@
+# fitbark-custom-component
