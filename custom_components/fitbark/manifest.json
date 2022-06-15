@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@bobfish"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/BobFish/fitbark-custom-component",
+  "domain": "fitbark",
+  "iot_class": "cloud_polling",
+  "name": "Fitbark",
+  "requirements": [],
+  "version": "1.0.0"
+}

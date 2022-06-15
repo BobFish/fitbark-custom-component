@@ -1,1 +1,3 @@
-# fitbark-custom-component
+# Fitbark for Home Assistant
+
+## Installation
